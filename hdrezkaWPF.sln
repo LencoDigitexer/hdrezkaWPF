@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hdrezkaWPF", "hdrezkaWPF\hdrezkaWPF.csproj", "{49FE53F6-2125-4A10-A125-257DB699635B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRequests", "TestRequests\TestRequests.csproj", "{E40F4803-8111-4FC9-A96B-74C04D891671}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{49FE53F6-2125-4A10-A125-257DB699635B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49FE53F6-2125-4A10-A125-257DB699635B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49FE53F6-2125-4A10-A125-257DB699635B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40F4803-8111-4FC9-A96B-74C04D891671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40F4803-8111-4FC9-A96B-74C04D891671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40F4803-8111-4FC9-A96B-74C04D891671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40F4803-8111-4FC9-A96B-74C04D891671}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
